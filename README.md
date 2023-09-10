@@ -33,7 +33,7 @@ The goal of this project is to build a machine learning model that can predict t
 1. Clone this repository:
 
    ```
-   git clone https://github.com/shivam-gupta12/diamond-price-prediction.git
+   https://github.com/shivam-gupta12/DiamondPricePrediction.git
    ```
 
 2. Navigate to the project directory:
